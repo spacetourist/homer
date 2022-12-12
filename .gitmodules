@@ -12,7 +12,7 @@
 	branch = master
 [submodule "homer-ui"]
 	path = homer-ui
-	url = https://github.com/sipcapture/homer-ui
+	url = https://github.com/spacetourist/homer-ui
 [submodule "heplify-server"]
 	path = heplify-server
 	url = https://github.com/sipcapture/heplify-server
