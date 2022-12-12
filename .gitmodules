@@ -18,4 +18,4 @@
 	url = https://github.com/sipcapture/heplify-server
 [submodule "heplify"]
 	path = heplify
-	url = https://github.com/sipcapture/heplify
+	url = https://github.com/spacetourist/heplify
